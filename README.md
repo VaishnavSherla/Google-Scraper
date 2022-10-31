@@ -1,5 +1,5 @@
 # Google-Scraper
-A Simple Python Based Google Search Results Scraper.
+A Simple Python Based Google Dorker. Saves The Urls To The Text File.
 # Usage
 It Can Be Used Easily On Any Operating System.
 
